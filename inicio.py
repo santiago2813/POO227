@@ -8,3 +8,4 @@ unavariable = input("Escribe un valor")
 unavariable = unavariable + "PROCESANDO DATOS"
 #SALIDA
 print("Hola mundo"+unavariable)
+#test
